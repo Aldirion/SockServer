@@ -1,0 +1,5 @@
+D:\ \4 семестр\Информационные технологии\CourseProject\SockServer\SockServer\bin\Debug\SockServer.exe
+D:\ \4 семестр\Информационные технологии\CourseProject\SockServer\SockServer\bin\Debug\SockServer.pdb
+D:\ \4 семестр\Информационные технологии\CourseProject\SockServer\SockServer\obj\Debug\SockServer.csproj.CoreCompileInputs.cache
+D:\ \4 семестр\Информационные технологии\CourseProject\SockServer\SockServer\obj\Debug\SockServer.exe
+D:\ \4 семестр\Информационные технологии\CourseProject\SockServer\SockServer\obj\Debug\SockServer.pdb
